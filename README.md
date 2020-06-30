@@ -81,7 +81,15 @@ El dataset forma parte de las bases de datos de la institución médica. Contien
 
 Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen información meteorológica por día para el período correspondiente al análisis, de los años 2018 y 2019 respectivamente. Fueron obtenidos a partir de datos abiertos disponibles en [https://www.ogimet.com/](https://www.ogimet.com/). 
 
-# Librerías necesarias:
+# Ejecución:
+
+Descargar o clonar el repositorio:
+
+``git clone https://github.com/Gianuzzi/Ausentismo-DD2020-Final.git``
+
+y ejecutar ``Practico.ipynb`` en el entorno deseado.
+
+## Librerías necesarias:
 
 * ``pandas`` (>= 1.0.5)
 * ``numpy`` (>= 1.19.0)
@@ -90,7 +98,7 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 * ``scipy`` (>= 1.4.1)
 * [``sidetable``](https://github.com/chris1610/sidetable) (>= 0.5.0)
 
-# Tiempo de ejecución aproximado:
+## Tiempo de ejecución aproximado:
 _10 min_
 
 # Notas
