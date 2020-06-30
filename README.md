@@ -85,3 +85,6 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 # Tiempo de ejecución aproximado:
 _10 min_
 
+# Notas
+
+En el futuro se incluirá una versión de ejecución online (Colab)
