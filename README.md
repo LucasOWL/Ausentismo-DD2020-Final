@@ -36,7 +36,8 @@ Contaremos con un canal de comunicación de la institución, por el cual podremo
 
 ## Descripción del dataset de turnos:
 
-Archivo: _dataset_turnos_2018-2019.zip_
+**Archivo**: _dataset_turnos_2018-2019.zip_
+
 El dataset forma parte de las bases de datos de la institución médica. Contiene información referida a los turnos correspondientes a consultas y prácticas médicas que se realizan en cada uno de los centros de atención.
 
 ### Campos:
@@ -83,3 +84,4 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contiene informa
 
 # Tiempo de ejecución aproximado:
 _10 min_
+
