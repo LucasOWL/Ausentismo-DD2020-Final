@@ -87,7 +87,7 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 
 ``git clone https://github.com/Gianuzzi/Ausentismo-DD2020-Final.git``
 
-- Entrar a directorio Analsis_y_Visualizacion:
+- Entrar a directorio *Analsis_y_Visualizacion*:
 
 ``cd Analsis_y_Visualizacion/``
 
