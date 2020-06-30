@@ -10,6 +10,14 @@ Nahuel Almeira
 
 ## Grupo: 
 1
+ 
+### Integrantes:
+
++ Gianuzzi Emmanuel
+
++ Lascano Lucas
+
++ Salgado Cristian
 
 ## Página de la diplomatura:
 [http://diplodatos.famaf.unc.edu.ar/](http://diplodatos.famaf.unc.edu.ar/)
