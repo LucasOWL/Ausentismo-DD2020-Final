@@ -1,4 +1,4 @@
-# **Librerías necesarias para correr notebook Practico_AyV.ipynb:**
+# **Librerías necesarias para ejecutar Practico.ipynb:**
 * ``pandas`` (>= 1.0.5)
 * ``numpy`` (>= 1.19.0)
 * ``matplotlib`` (>= 3.2.2)
