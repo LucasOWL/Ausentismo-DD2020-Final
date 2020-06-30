@@ -93,8 +93,9 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 
 y ejecutar ``Practico.ipynb`` en el entorno deseado.
 
-## Librerías necesarias:
+## Dependencias:
 
+* ``python`` (>= 3.x)
 * ``pandas`` (>= 1.0.5)
 * ``numpy`` (>= 1.19.0)
 * ``matplotlib`` (>= 3.2.2)
