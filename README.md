@@ -71,7 +71,7 @@ El dataset forma parte de las bases de datos de la institución médica. Contien
 
 ## Descripción del dataset de condiciones meteorológicas:
 
-Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contiene información meteorológica por día para el período correspondiente al análisis. Fue obtenido a partir de datos abiertos disponibles en [https://www.ogimet.com/](https://www.ogimet.com/). 
+Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen información meteorológica por día para el período correspondiente al análisis, de los años 2018 y 2019 respectivamente. Fueron obtenidos a partir de datos abiertos disponibles en [https://www.ogimet.com/](https://www.ogimet.com/). 
 
 # Librerías necesarias:
 
