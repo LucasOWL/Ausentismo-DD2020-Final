@@ -83,9 +83,13 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 
 # Ejecución:
 
-Descargar o clonar el repositorio:
+- Descargar o clonar el repositorio:
 
 ``git clone https://github.com/Gianuzzi/Ausentismo-DD2020-Final.git``
+
+- Entrar a directorio Analsis_y_Visualizacion:
+
+``cd Analsis_y_Visualizacion/``
 
 y ejecutar ``Practico.ipynb`` en el entorno deseado.
 
