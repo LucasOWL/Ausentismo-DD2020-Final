@@ -16,7 +16,9 @@ Este código realiza webscrapping para obtener los datos correspondientes a la t
 
 **Ejecución:**
 
-``python ogimet_scraper.py``
+```bash
+python ogimet_scraper.py
+```
 
 (El dataset generado se guardará en formato ``.csv``, en el mismo directorio que el ``.py``)
 
