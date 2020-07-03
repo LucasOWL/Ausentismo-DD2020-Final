@@ -87,25 +87,8 @@ Los dataset *dataset_clima_2018.csv* y *dataset_clima_2019.csv* contienen inform
 
 ``git clone https://github.com/Gianuzzi/Ausentismo-DD2020-Final.git``
 
-- Entrar a directorio *Analsis_y_Visualizacion*:
+- Entrar a directorio deseado dentro del directorio ``Notebooks``:
 
-``cd Analsis_y_Visualizacion/``
+``cd Notebooks/<nombre_del_directorio>/``
 
 y ejecutar ``Practico.ipynb`` en el entorno deseado.
-
-## Dependencias:
-
-* ``python`` (>= 3.x)
-* ``pandas`` (>= 1.0.5)
-* ``numpy`` (>= 1.19.0)
-* ``matplotlib`` (>= 3.2.2)
-* ``seaborn`` (>= 0.10.1)
-* ``scipy`` (>= 1.4.1)
-* [``sidetable``](https://github.com/chris1610/sidetable) (>= 0.5.0)
-
-## Tiempo de ejecución aproximado:
-_10 min_
-
-# Notas
-
-En el futuro se incluirá una versión de ejecución online (Colab)
