@@ -7,7 +7,7 @@
 * ``numpy`` (>= 1.19.0)
 * ``matplotlib`` (>= 3.2.2)
 * ``seaborn`` (>= 0.10.1)
-* ``scipy`` (>= 1.5.1) (En caso de no tener esta versión, se actualiza a la última en la ejecución)
+* ``scipy`` (>= 1.5.0) (En caso de no tener esta versión, se descarga y actualiza a la última en la ejecución)
 * [``sidetable``](https://github.com/chris1610/sidetable) (>= 0.5.0) (En caso de no tenerla, se descarga en la ejecución)
 
 **Tiempo de ejecución aproximado:**
