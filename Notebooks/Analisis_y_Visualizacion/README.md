@@ -16,4 +16,4 @@ _10 min_
 
 **Notas:**
 
-Se puede ejecutar en [COLAB](https://colab.research.google.com/github/Gianuzzi/Ausentismo-DD2020-Final/blob/master/Notebooks/Analsis_y_Visualizacion/Practico.ipynb)
+Se puede ejecutar en [COLAB](https://colab.research.google.com/github/Gianuzzi/Ausentismo-DD2020-Final/blob/master/Notebooks/Analisis_y_Visualizacion/Practico.ipynb)
