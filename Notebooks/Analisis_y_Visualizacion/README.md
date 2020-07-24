@@ -16,4 +16,6 @@ Se puede ejecutar en [COLAB](https://colab.research.google.com/github/Gianuzzi/A
 
 **Tiempo de ejecución aproximado:**
 
-_10 min_
+_~10 min_ (Servidor personal)
+
+_~4.25 min_ (COLAB)
