@@ -44,37 +44,49 @@ Contaremos con un canal de comunicación de la institución, por el cual podremo
 
 ## Descripción del dataset de turnos:
 
-**Archivo**: _dataset_turnos_2018-2019.zip_
+**Archivos**: 
 
-El dataset forma parte de las bases de datos de la institución médica. Contiene información referida a los turnos correspondientes a consultas y prácticas médicas que se realizan en cada uno de los centros de atención.
++ _dataset_turnos_2018-2019.zip_
++ _turnos_con_paciente_2018-2019_despersonalizado.zip_
++ _turnos_sin_paciente_2018-2019_despersonalizado.zip_
 
-### Campos:
+Los datasets forman parte de las bases de datos de las instituciónes médicas. Contienen información referida a los turnos correspondientes a consultas y prácticas médicas que se realizan en cada uno de los centros de atención.
 
-* **Centro de atención:** Cada uno de los cuatro centros de atención con que cuenta la institución
+### Información en Datasets:
 
-* **Servicio:** Servicio utilizado en el turno
+* **Centro de atención:** Cada uno de los cuatro centros de atención con que cuenta la institución.
 
-* **Recurso:** Profesional o instrumento específico correspondiente al turno
+* **Servicio:** Servicio utilizado en el turno.
 
-* **Prestación asignada:** Prestación asignada en en el turno
+* **Recurso:** Profesional o instrumento específico correspondiente al turno. (_Despersonalizado_)
+
+* **Prestación asignada:** Prestación asignada en en el turno.
 
 * **Estado del turno:** Estado (presente o pasado) correspondiente al turno. Indica si el turno fue atendido, se encuentra libre, si el paciente se ausentó, si fue cancelado o reprogramado, etc.
 
-* **Nombre del Canal:** Canal de comunicación por donde se realizó la reserva del turno
+* **Nombre del Canal:** Canal de comunicación por donde se realizó la reserva del turno.
 
-* **Fecha del turno:** Día correspondiente al turno
+* **Fecha del turno:** Día correspondiente al turno.
 
-* **Hora del turno:** Horario del turno
+* **Hora del turno:** Horario del turno.
 
-* **Es sobre turno:** Indica si se trata de un turno regular o de un sobre turno
+* **Fecha del turno ortorgado:** Día y hora del momento en el que se cargó la "reserva" del turno al sistema.
+
+* **Es sobre turno:** Indica si se trata de un turno regular o de un sobre turno.
 
 * **Tipo de turno asignado:** Indica si el turno corresponde a una primera consulta, a la realización de una práctica, a un control, etc.
 
-* **Edad:** Edad del paciente
+* **Edad:** Edad del paciente.
 
-* **Género:** Género del paciente
+* **Sexo:** Sexo del paciente.
 
-* **Cobertura:** Obra social o prepaga, en caso de que la tenga
+* **Prestador:** Obra social o prepaga, en caso de que la tenga.
+
+* **Localidad:** Localidad de residencia del paciente.
+
+* **Provincia:** Provincia de residencia del paciente.
+
+* **Historia Clínica:** Número de historia clínica del paciente. (_Despersonalizado_)
 
 
 ## Descripción del dataset de condiciones meteorológicas:
