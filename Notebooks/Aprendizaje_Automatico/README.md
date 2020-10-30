@@ -16,7 +16,7 @@
 
 **Notas:**
 
-Se puede ejecutar en [COLAB](https://colab.research.google.com/github/Gianuzzi/Ausentismo-DD2020-Final/blob/master/Notebooks/Intro_al_Aprend_Autom/Practico.ipynb)
+Se puede ejecutar en [COLAB](https://colab.research.google.com/github/Gianuzzi/Ausentismo-DD2020-Final/blob/master/Notebooks/Aprendizaje_Automatico/Practico.ipynb)
 
 **Tiempo de ejecución aproximado:**
 
